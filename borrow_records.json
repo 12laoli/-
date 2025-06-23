@@ -1,0 +1,42 @@
+[
+  {
+    "user": "user1",
+    "book_id": "B001",
+    "book_title": "Python\u7f16\u7a0b\u4ece\u5165\u95e8\u5230\u5b9e\u8df5",
+    "borrow_date": "2025-06-14T22:25:30.293317",
+    "returned": false,
+    "return_date": null
+  },
+  {
+    "user": "user2",
+    "book_id": "B002",
+    "book_title": "JavaScript\u9ad8\u7ea7\u7a0b\u5e8f\u8bbe\u8ba1",
+    "borrow_date": "2025-06-16T22:25:30.293317",
+    "returned": true,
+    "return_date": "2025-06-18T22:25:30.293317"
+  },
+  {
+    "user": "\u674e\u77e5\u8fdc",
+    "book_id": "1",
+    "book_title": "\u9053\u5fb7\u7ecf",
+    "borrow_date": "2025-06-19T22:37:49.304478",
+    "returned": true,
+    "return_date": "2025-06-19T22:37:55.813862"
+  },
+  {
+    "user": "\u674e\u77e5\u8fdc",
+    "book_id": "1",
+    "book_title": "\u9053\u5fb7\u7ecf",
+    "borrow_date": "2025-06-19T22:39:21.444117",
+    "returned": false,
+    "return_date": null
+  },
+  {
+    "user": "\u674e\u6d9b",
+    "book_id": "12",
+    "book_title": "\u60b2\u5267\u7684\u8bde\u751f",
+    "borrow_date": "2025-06-20T09:25:00.692362",
+    "returned": false,
+    "return_date": null
+  }
+]

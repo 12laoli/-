@@ -1,0 +1,9 @@
+本网页由李知远设计，
+
+准备工作，确保你的电脑上由python的环境，以及包含了flask的包
+如果没有，请在windows命令哪里输入   pip install flask
+
+第一步，使用cmd进入windows命令
+第二步，输入    cd /d "D:\AA测试\图书管理"    进入文件夹
+第三步，输入    python app.py    启动flask
+第四步，将返回的网址在浏览器中打开
